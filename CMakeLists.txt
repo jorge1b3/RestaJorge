@@ -3,4 +3,4 @@ project(restaJorge)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(restaJorge main.cpp)
+add_executable(restaJorge main.cpp stak.h stack.cpp)
