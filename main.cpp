@@ -11,7 +11,7 @@ int main() {
     using std::string;
     Stack mayor{};
     Stack menor{};
-    std::cout<<"Ingrese  la operación: ";
+    std::cout<<"Ingrese  la operacion: ";
     string texto;
     std::cin>>texto;
     size_t medio {texto.find('-')};
